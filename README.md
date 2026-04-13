@@ -1,4 +1,4 @@
-automatically establish SSH connections, switch to new SSH after a certain period of time, auto loop SSH list
+Automatically establish SSH connections, switch to new SSH after a certain period of time, auto loop SSH list
 
 ![Screenshot](/SSH-Auto-Switcher.gif)
 
