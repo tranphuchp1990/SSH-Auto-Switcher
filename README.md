@@ -1,6 +1,6 @@
 automatically establish SSH connections, switch to new SSH after a certain period of time, auto loop SSH list
 
-![Screenshot](/Sanmao_SMTP_Cracker_1.75.png)
+![Screenshot](/SSH Auto Switcher.gif)
 
 <h2>🎬 Demo Video</h2>
 <p>
